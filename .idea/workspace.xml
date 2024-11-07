@@ -4,20 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="641168ec-a410-4bf0-ba01-20b2cc5df588" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/image_matching/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/image_matching/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/image_matching/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image_matching/requirements.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/image_matching/satellite-imagery-matching.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/image_matching/satellite-imagery-matching.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ner/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/ner/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ner/complete_solution.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/ner/complete_solution.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ner/dataset_creation.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/ner/dataset_creation.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ner/demo.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/ner/demo.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ner/inference.py" beforeDir="false" afterPath="$PROJECT_DIR$/ner/inference.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ner/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ner/requirements.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ner/train.py" beforeDir="false" afterPath="$PROJECT_DIR$/ner/train.py" afterDir="false" />
-    </list>
+    <list default="true" id="641168ec-a410-4bf0-ba01-20b2cc5df588" name="Changes" comment="update blank files" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,6 +20,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Liubavaa"
+  }
+}]]></component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/Liubavaa/quantum_task.git",
@@ -108,11 +101,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1730897021529</updated>
-      <workItem from="1730897027330" duration="36074000" />
+      <workItem from="1730897027330" duration="36432000" />
     </task>
+    <task id="LOCAL-00001" summary="update blank files">
+      <option name="closed" value="true" />
+      <created>1731013531764</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1731013531764</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update blank files" />
+    <option name="LAST_COMMIT_MESSAGE" value="update blank files" />
   </component>
 </project>
