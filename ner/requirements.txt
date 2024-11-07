@@ -1,0 +1,9 @@
+huggingface_hub
+ipywidgets
+transformers
+torch
+torchvision
+evaluate
+seqeval
+accelerate
+numpy==1.26.4

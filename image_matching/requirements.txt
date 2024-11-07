@@ -1,0 +1,8 @@
+rasterio
+geopandas
+opencv-python
+numpy
+pandas
+torch
+kornia
+kornia_moons
